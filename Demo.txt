@@ -1,0 +1,9 @@
+Reading the dataset
+Firstly we will be loading the dataset from the folders 
+using the pandas library. While reading the dataset we 
+will be dropping the null column. This dataset is a clean 
+dataset with no null values and all the features consist of
+ 0’s and 1s. Whenever we are solving a classification task 
+it is necessary to check whether our target column is balanced 
+or not. We will be using a bar plot, to check whether the 
+dataset is balanced or not.  
