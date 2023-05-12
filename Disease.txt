@@ -1,3 +1,4 @@
+Edited this srticle to display the pull operation on local
 This article aims to implement a robust machine-learning model that can 
 efficiently predict the disease of a human, based on the symptoms that he/she possesses. 
 Let us look into how we can approach this machine-learning problem:
